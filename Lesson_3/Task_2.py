@@ -13,4 +13,4 @@ for _ in range(k):
 # k = int(input('-> '))
 # k %= len(my_list)
 
-# print(my_list[-k:] + [-k:])
+# print(my_list[-k:] + [:-k])
